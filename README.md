@@ -12,14 +12,4 @@ Developed By,
 
 Abraham, Anton Augustine
 
-Cook, Matthew
 
-Glean, Shane
-
-Kaimalamkunnath, Sreeraj
-
-Rana, Sanjay
-
-Rizvi, Inaam ul haq
-
-Suresh Kumar, Mukundakrishnan
